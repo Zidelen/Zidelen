@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello Friend 👋 My Name is Phillip Henry
+## Currently just a student looking for projects!
+I am currently pursuing my Bachelor of Science in Computer Science, with a Minor in Psychology and Mathematics. I currently know Python and C++ and am learning new languages as I work on new projects with different structures. I am studying new ways to apply my knowledge of coding to my other passions.
+
+- 🌍  I'm based in Austin, TX
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on any person/group projects
+- 📫 Reach out to me at phillipjh27@gmail.com
 
 <!--
 **Zidelen/Zidelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
